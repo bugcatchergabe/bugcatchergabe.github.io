@@ -380,7 +380,7 @@ function drawText() {
   ctx.fillStyle = "black";
   ctx.font = "100px Georgia";
   ctx.fillText("Hi there!",textx,l1cy);
-  ctx.fillText("I studied computer science at the University of Waterloo.",textx,l2cy);
+  ctx.fillText("I'm a software engineer from University of Waterloo.",textx,l2cy);
   ctx.fillText("Feel free to check out my ",textx - 600 ,l3cy);
   ctx.fillText("or send me an ",textx + 590, l3cy);
 // ctx.fillStyle = "blue";
